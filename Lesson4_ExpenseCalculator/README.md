@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Joseph Fernandez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Learning to declare variables, making code easy to read, and learning getElementById.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
